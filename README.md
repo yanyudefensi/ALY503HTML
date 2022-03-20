@@ -10,7 +10,7 @@ I would like to know the electrical appliance usage for each day in Home 4, espe
 
 My visualization goal needs to include two dimensions: TimeLine and the percentage of electrical load of each household appliance, the candidate diagrams are pie chart, bar chart and stacked bar chart, the pie chart cannot show the trend of electrical load over time, and the bar chart cannot show the percentage of electrical load, the stacked bar chart meets the visualization conditions of both dimensions and is the best choice.
 
-<iframe src="Picture/plotly.html" width="100%" height="500">
+<iframe src="plotly.html" width="100%" height="500">
 </iframe>
 
 ### Discovery:
@@ -30,7 +30,7 @@ I want to understand the daily electrical load and trends of the appliances in m
 
 Candidate images to show time trends are bar charts, scatter charts, and linear charts, which are not suitable because of the long-time span of the time series displayed and the daily granularity of analysis. Because up to 8 types of furniture are displayed, a scatter plot would reduce readability, so it was finally decided to use a line chart with an additional measurement scale to help the reader see the specific value of the electrical load of the furniture on a given day.
 
-<iframe src="Picture/altair.html" width="100%" height="500">
+<iframe src="altair.html" width="100%" height="500">
 </iframe>
 
 ### Discovery:
