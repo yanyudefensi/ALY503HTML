@@ -1,6 +1,6 @@
-# Family4 and Family5 Electricity Visualization
+# Family3 and Family2 Electricity Visualization
 
-## Family4 Part
+## Family3 Part
 
 ### Consideration and Final Visual Target:
 
@@ -20,7 +20,7 @@ My visualization goal needs to include two dimensions: TimeLine and the percenta
 3.	Microwave were found to be in use from 11am-12am and 6pm
 4.	Because of the relationship between the direct sun point movement, the closer the time is to winter, the longer the time of darkness, the greater the proportion of time and load of light use
 
-## Family5 Part
+## Family2 Part
 
 ### Consideration and Final Visual Target:
 
